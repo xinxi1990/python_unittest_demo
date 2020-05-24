@@ -1,0 +1,15 @@
+*.sql
+*.pyc
+*.log
+.idea/*
+screenshot/*
+webdriver
+.pytest_cache/*
+reports/*
+data/*
+DockerFile/.ssh/*
+apps/*
+logcat.json
+venv/*
+shopdata/*
+allure-report/*
